@@ -9,9 +9,9 @@ i++ ilk önce sayının kendisini çıktı olarak verir ve sayıyı 1 artırır,
 int sayi;
 sayi=1;
 printf("%d",sayi++);//Çıktı olarak 1 verecek
-printd("%d",sayi);//Çıktı olarak 2 verecek
+printf("%d",sayi);//Çıktı olarak 2 verecek
 
 int sayi;
 sayi=1;
 printf("%d",++sayi);//Çıktı olarak 2 verecek
-printd("%d",sayi);//Çıktı olarak 2 verecek
+printf("%d",sayi);//Çıktı olarak 2 verecek
